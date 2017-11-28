@@ -19,7 +19,6 @@ h1, h2, h3, h4, h5, h6 {
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     font-weight: bold;
-    text-align: center;
 }
 
 h1 {
@@ -38,7 +37,12 @@ h4 {
     font-size: 18px;
 }
 
+.section-header,
+.footer-header {
+    text-align: center;
+}
+
 section,
 footer {
-    padding: 30px 0;
+    padding: 40px 0;
 }
