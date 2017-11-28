@@ -39,6 +39,7 @@ h4 {
     font-size: 18px;
 }
 
-section {
+section,
+footer {
     padding: 30px 0;
 }
