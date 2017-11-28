@@ -9,8 +9,21 @@ AAA: #aaaaa
 
 /* === GERAL === */
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
 }
 
 /* === GLOBAL === */
